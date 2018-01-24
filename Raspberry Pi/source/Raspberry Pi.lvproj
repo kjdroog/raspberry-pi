@@ -90,6 +90,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="sense-hat" Type="Folder" URL="../sense-hat">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Blink test.vi" Type="VI" URL="../Blink test.vi"/>
 		<Item Name="Database test.vi" Type="VI" URL="../Database test.vi"/>
 		<Item Name="general globals.vi" Type="VI" URL="../globals/general globals.vi"/>
