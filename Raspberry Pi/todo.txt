@@ -1,0 +1,14 @@
+TODO:
+- Database (sqlite) klasse/vi maken welke gemakkelijk in andere projecten te plaatsen is.
+- NTH: Uitlezing sense hat zonder python.
+- Datalogging (icm database).
+- webpagina interface met exe op pi.
+- tcp/ip interfacing met exe op pi.
+- usb detecteren op pi.
+- modbus op pi.
+- pi vpn.
+- svn server op pi.
+
+Onepages
+- onepage opkg libraries installen voor labview chroot (python, sqlite3).
+- onepage labview installeren en runnen op raspberry pi.

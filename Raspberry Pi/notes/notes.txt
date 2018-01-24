@@ -1,0 +1,5 @@
+Benodigdheden om programma's/bestanden uit te voeren of te lezen op pi zelf, vanuit labview (zet ssh op! labview draait namelijk vanuit chroot):
+https://www.labviewmakerhub.com/doku.php?id=learn:libraries:linx:misc:chroot-ssh-trick
+
+vervolgens kan met bijv. volgende command via system exe in labview een python programma uitgevoerd worden:
+ssh pi@localhost python3 /home/pi/Desktop/test.py "test argument"
